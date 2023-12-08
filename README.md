@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=full&lines=I+am+a+MERN+Stack+Developer;Welcome+to+My+Profile" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=I+am+a+MERN+Stack+Developer;Welcome+to+My+Profile" />
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/faraazhossainimran/faraazhossainimran/main/github-banner.jpg" alt="cover" />
 </div>

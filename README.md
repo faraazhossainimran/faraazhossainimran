@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/faraazhossainimran/faraazhossainimran/main/github-banner.jpg" alt="cover" />
+</div>
 
 # Overview
 ## Current Status

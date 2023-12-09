@@ -1,6 +1,7 @@
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/faraazhossainimran/faraazhossainimran/main/github-banner.jpg" alt="cover" />
+<img width="100%" src="https://raw.githubusercontent.com/faraazhossainimran/faraazhossainimran/main/GITHUB-BANNER12.jpg" alt="cover" />
 </div>
+
 <h1 align="center">😸Hello, I'm Imran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
 <div align="center">
    <div align="center">

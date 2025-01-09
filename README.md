@@ -23,6 +23,6 @@
    🔭 I work on Frontend development, Graphics Design, etc. In addition, I'm currently teching English in an Institution at Baridhara.<br/>
 🌱 I’m currently learning: Mongoose, Redux, Bootstrap. And there is also some other framework that I want to know such as MaterialUI<br/>
 👯 I’m looking to collaborate on: Event Management projects, Corporate Event Planning, Educational Workshops<br/>
-🔭 I’m currently working on [ProductPeak](https://github.com/faraazhossainimran/ProductPeak)<br/>
+🔭 I’m currently working on [Wisdom Bridge Academy](https://wisdombridgeacademy.netlify.app/)<br/>
 💬 Ask me about Ethical Hacking, MERN Stack - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faraazhossainimran/)
 </div>
